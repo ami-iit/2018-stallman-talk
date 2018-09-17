@@ -1,4 +1,4 @@
-![Richard Stallman][stallman-flyer.pdf]
+![Richard Stallman](stallman-photo.png)
 
 **Richard Stallman** will speak about the goals and philosophy of the
 Free Software Movement, and the status and history of the GNU
