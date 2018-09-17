@@ -1,10 +1,6 @@
-## Free Software And Your Freedom
+![Richard Stallman][stallman-flyer.pdf]
 
-### Leonardo Auditorium Room
-### Istituto Italiano di TEcnologia
-### Tuesday 28 th September 2018 - h. 2:00 p.m.
-
-Richard Stallman will speak about the goals and philosophy of the
+**Richard Stallman** will speak about the goals and philosophy of the
 Free Software Movement, and the status and history of the GNU
 operating system, which in combination with the kernel Linux is
 now used by tens of millions of users world-wide.
@@ -23,6 +19,9 @@ Systems Award, a MacArthur Foundation fellowship, the Electronic Frontier
 Foundation's Pioneer Award, and the Takeda Award for Social/Economic Betterment,
 as well as several doctorates honoris causa, and has been inducted into the Internet
 Hall of Fame.
+
+### Leonardo Auditorium Room -- Istituto Italiano di Tecnologia
+### Tuesday 28 th September 2018 - h. 2:00 p.m.
 
 [Flyer in PDF format](./stallman-flyer.pdf)
 
