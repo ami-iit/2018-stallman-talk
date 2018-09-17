@@ -22,7 +22,7 @@ as well as several doctorates honoris causa, and has been inducted into the Inte
 Hall of Fame.
 
 ### Leonardo Auditorium Room -- Istituto Italiano di Tecnologia
-### Tuesday 28th September 2018 - 2:00 PM CEST
+### Friday 28th September 2018 - 2:00 PM CEST
 
 [Flyer in PDF format](./stallman-flyer.pdf)
 
