@@ -18,7 +18,7 @@ The GNU/Linux system, basically the GNU operating
 system with Linux added, is used on tens of millions of
 computers today.
 
-<p>Stallman has received the ACM Grace Hopper Award and the ACM Software and
+Stallman has received the ACM Grace Hopper Award and the ACM Software and
 Systems Award, a MacArthur Foundation fellowship, the Electronic Frontier
 Foundation's Pioneer Award, and the Takeda Award for Social/Economic Betterment,
 as well as several doctorates honoris causa, and has been inducted into the Internet
