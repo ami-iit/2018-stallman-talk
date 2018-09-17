@@ -1,6 +1,7 @@
 ![Richard Stallman](stallman-photo.png)
 
-**Richard Stallman** will speak about the goals and philosophy of the
+**Richard Stallman** (President – [Free Software Foundation](https://www.fsf.org))
+will speak about the goals and philosophy of the
 Free Software Movement, and the status and history of the GNU
 operating system, which in combination with the kernel Linux is
 now used by tens of millions of users world-wide.
@@ -21,7 +22,7 @@ as well as several doctorates honoris causa, and has been inducted into the Inte
 Hall of Fame.
 
 ### Leonardo Auditorium Room -- Istituto Italiano di Tecnologia
-### Tuesday 28 th September 2018 - h. 2:00 p.m.
+### Tuesday 28th September 2018 - 2:00 PM CEST
 
 [Flyer in PDF format](./stallman-flyer.pdf)
 
